@@ -32,6 +32,6 @@ io.on("connection", (socket) => {
 
 });
 
-server.listen(3001, () => {
+server.listen(3000, () => {
   console.log("server is on 3001");
 });
